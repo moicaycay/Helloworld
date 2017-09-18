@@ -1,0 +1,27 @@
+C:\Users\DDD\Documents\GitHub\New folder\Hello World\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\DDD\Documents\GitHub\New folder\Hello World\Hello World\bin\Debug\Hello World.exe
+C:\Users\DDD\Documents\GitHub\New folder\Hello World\Hello World\bin\Debug\Hello World.pdb
+C:\Users\DDD\Documents\GitHub\New folder\Hello World\Hello World\obj\Debug\Hello World.csprojResolveAssemblyReference.cache
+C:\Users\DDD\Documents\GitHub\New folder\Hello World\Hello World\obj\Debug\Hello_World.Properties.Resources.resources
+C:\Users\DDD\Documents\GitHub\New folder\Hello World\Hello World\obj\Debug\Hello World.csproj.GenerateResource.Cache
+C:\Users\DDD\Documents\GitHub\New folder\Hello World\Hello World\obj\Debug\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\DDD\Documents\GitHub\New folder\Hello World\Hello World\obj\Debug\Hello World.exe
+C:\Users\DDD\Documents\GitHub\New folder\Hello World\Hello World\obj\Debug\Hello World.pdb
+C:\Users\DDD\Documents\GitHub\New folder\Hello World\Hello World\obj\Debug\Hello_World.Form1.resources
+F:\Documents\GitHub\Helloworld\Hello World\Hello World\bin\Debug\Hello World.exe.config
+F:\Documents\GitHub\Helloworld\Hello World\Hello World\obj\Debug\Hello World.exe
+F:\Documents\GitHub\Helloworld\Hello World\Hello World\obj\Debug\Hello World.pdb
+F:\Documents\GitHub\Helloworld\Hello World\Hello World\bin\Debug\Hello World.exe
+F:\Documents\GitHub\Helloworld\Hello World\Hello World\bin\Debug\Hello World.pdb
+F:\Documents\GitHub\Helloworld\Hello World\Hello World\bin\Debug\mscorlib.dll
+F:\Documents\GitHub\Helloworld\Hello World\Hello World\bin\Debug\System.Net.Http.dll
+F:\Documents\GitHub\Helloworld\Hello World\Hello World\bin\Debug\System.Net.Http.xml
+F:\Documents\GitHub\Helloworld\Hello World\Hello World\bin\Debug\normidna.nlp
+F:\Documents\GitHub\Helloworld\Hello World\Hello World\bin\Debug\normnfc.nlp
+F:\Documents\GitHub\Helloworld\Hello World\Hello World\bin\Debug\normnfd.nlp
+F:\Documents\GitHub\Helloworld\Hello World\Hello World\bin\Debug\normnfkc.nlp
+F:\Documents\GitHub\Helloworld\Hello World\Hello World\bin\Debug\normnfkd.nlp
+F:\Documents\GitHub\Helloworld\Hello World\Hello World\obj\Debug\Hello World.csprojResolveAssemblyReference.cache
+F:\Documents\GitHub\Helloworld\Hello World\Hello World\obj\Debug\Hello_World.Form1.resources
+F:\Documents\GitHub\Helloworld\Hello World\Hello World\obj\Debug\Hello_World.Properties.Resources.resources
+F:\Documents\GitHub\Helloworld\Hello World\Hello World\obj\Debug\Hello World.csproj.GenerateResource.Cache
