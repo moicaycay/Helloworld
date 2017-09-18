@@ -34,18 +34,19 @@
             // 
             // lblHelloWorld
             // 
-            this.lblHelloWorld.AutoSize = true;
-            this.lblHelloWorld.Font = new System.Drawing.Font("Segoe Script", 36F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblHelloWorld.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
+            this.lblHelloWorld.Font = new System.Drawing.Font("Futura Md BT", 36F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblHelloWorld.ForeColor = System.Drawing.Color.Red;
-            this.lblHelloWorld.Location = new System.Drawing.Point(87, 88);
+            this.lblHelloWorld.Location = new System.Drawing.Point(12, 63);
             this.lblHelloWorld.Name = "lblHelloWorld";
-            this.lblHelloWorld.Size = new System.Drawing.Size(63, 80);
+            this.lblHelloWorld.Size = new System.Drawing.Size(479, 80);
             this.lblHelloWorld.TabIndex = 0;
-            this.lblHelloWorld.Text = "a";
+            this.lblHelloWorld.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // btnShow
             // 
-            this.btnShow.Location = new System.Drawing.Point(154, 213);
+            this.btnShow.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
+            this.btnShow.Location = new System.Drawing.Point(192, 216);
             this.btnShow.Name = "btnShow";
             this.btnShow.Size = new System.Drawing.Size(116, 23);
             this.btnShow.TabIndex = 1;
@@ -57,14 +58,14 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(431, 309);
+            this.ClientSize = new System.Drawing.Size(503, 251);
             this.Controls.Add(this.btnShow);
             this.Controls.Add(this.lblHelloWorld);
             this.ForeColor = System.Drawing.Color.Black;
+            this.MinimumSize = new System.Drawing.Size(300, 200);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
